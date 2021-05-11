@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DanMsUsuariosApplication<dan-ms-usuarios>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "dan.danmsusuarios.DanMsUsuariosApplication",
+            "projectName": "dan-ms-usuarios",
+            "args": ""
+        }
+    ]
+}
